@@ -22,4 +22,5 @@ read t
 s=$((p * t * r / 100))
 
 echo "The simple interest is: $s"
+This is calculates simple Interest
 
